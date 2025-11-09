@@ -3,7 +3,6 @@
 **Étudiant en Master 2 – Chef de projet en conception et développement de solutions informatiques**  
 🎯 Actuellement à la recherche d’une **Alternance** ou **stage de fin d’études**  
 
-![Header Image](https://via.placeholder.com/1200x300?text=Portfolio+de+Développement)  
 
 ---
 
@@ -78,7 +77,9 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Cassandra](https://img.shields.io/badge/Cassandra-1286A8?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
 
 ### DevOps / Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -136,8 +137,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 2. **Gestion des notes et catégories** : CRUD complet avec relations User-Note et Category-Note, filtres, pagination  
 3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond  
 4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories  
-5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement  
-6. **Finalisation & Déploiement** : Tests unitaires/e2e, Dockerfile API + frontend, CI/CD et documentation  
+5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement   
 
 **🔗 [Voir le projet](#)**  
 
