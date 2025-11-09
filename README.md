@@ -61,11 +61,13 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ### Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Back-End
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -110,6 +112,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ### Tests & QA
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-777BB4?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -123,27 +126,6 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ## 🚀 Projets phares
 
-### 1️⃣ Application web de recherche de donneur de sang (2025)
-![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+Sang)  
-- Inscription et gestion des utilisateurs  
-- Notifications et alertes mises à jour  
-- Recherche intelligente de banques de sang et donneurs  
-- Gestion des rôles et demandes de don  
-
-**🔗 [Voir le projet](#)**  
-
----
-
-### 2️⃣ Plateforme web de gestion des frais de scolarité (2024)
-![Projet Gestion Scolaire](https://via.placeholder.com/600x300?text=Gestion+des+Frais+Scolaires)  
-- Profils élèves et suivi des paiements  
-- Paiements en ligne et rappels récurrents  
-- Rapports financiers sécurisés  
-- Gestion des rôles et historique des transactions  
-
-**🔗 [Voir le projet](#)**  
-
----
 
 ### 3️⃣ SMART-ASSIST (2025)
 ![Projet SmartAssist](https://via.placeholder.com/600x300?text=SmartAssist)  
@@ -161,15 +143,44 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 
+### 1️⃣ Application web de recherche de donneur de sang (2025)
+![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+Sang)  
+- Inscription et gestion des utilisateurs  
+- Notifications et alertes mises à jour  
+- Recherche intelligente de banques de sang et donneurs  
+- Gestion des rôles et demandes de don  
+
+**🔗 [Voir le projet](#)**  
+
+---
+### 4️⃣ Chatbot Intelligent (2025)
+![Projet Chatbot](https://via.placeholder.com/600x300?text=Chatbot+Intelligent)  
+**Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
+
+**Fonctionnalités clés :**  
+- Traitement du langage naturel (NLP) pour comprendre les questions  
+- Réponses contextuelles et dynamiques via GPT ou modèle Mistral  
+- Intégration frontend-backend pour communication en temps réel  
+- Gestion des sessions utilisateurs et historique de conversation  
+- Tests et optimisation de la précision des réponses  
+- Déploiement sur serveur cloud avec Docker et CI/CD  
+
+**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B, Docker  
+
+**🔗 [Voir le projet](#)**
+
+---
+
+
 ## 🌟 Centres d’intérêt
 - 🍳 Cuisine | ✈️ Voyages | ⚽ Football | 🎵 Musique  
 
 ---
 
 ## 📫 Contact
-- 📧 Email : [ton.email@example.com](mailto:ton.email@example.com)  
-- 🔗 LinkedIn : [TonProfilLinkedIn](#)  
-- 🔗 GitHub : [TonProfilGitHub](#)  
+- 📧 Email : [mbeteutchinde@example.com](mailto:ton.email@example.com)  
+- 🔗 LinkedIn : [kevin-mbeteu-tchinde-327a76331/](#)  
+- 🔗 GitHub : [https://github.com/MBETEU](#)  
 
 ---
 
