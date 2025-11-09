@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Kevin MBETEU TCHINDE - Portfolio**
+# Je suis **Kevin MBETEU TCHINDE - Portfolio**
 
 **Étudiant en Master 2 – Chef de projet en conception et développement de solutions informatiques**  
 🎯 Actuellement à la recherche d’une **Alternance** ou **stage de fin d’études**  
