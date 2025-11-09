@@ -132,7 +132,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ## 🚀 Projets phares
 
 
-### 3️⃣ SMART-ASSIST (2025)
+###  SMART-ASSIST (2025)
 ![Projet SmartAssist](https://via.placeholder.com/600x300?text=SmartAssist)  
 **Résumé :** Application web intelligente pour gérer les notes avec génération automatique de résumés et tags via IA.  
 
@@ -141,13 +141,14 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 2. **Gestion des notes et catégories** : CRUD complet avec relations User-Note et Category-Note, filtres, pagination  
 3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond  
 4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories  
-5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement   
+5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement
+**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B,  
 
 **🔗 [Voir le projet](#)**  
 
 ---
 
-### 1️⃣ Application web de recherche de donneur de sang (2025)
+###  Application web de recherche de donneur de sang (2025)
 ![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+Sang)  
 - Inscription et gestion des utilisateurs  
 - Notifications et alertes mises à jour  
@@ -157,7 +158,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **🔗 [Voir le projet](#)**  
 
 ---
-### 4️⃣ Chatbot Intelligent (2025)
+###  Chatbot Intelligent (2025)
 ![Projet Chatbot](https://via.placeholder.com/600x300?text=Chatbot+Intelligent)  
 **Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
 
@@ -177,7 +178,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 
 ## 🌟 Centres d’intérêt
-- 🍳 Cuisine | ✈️ Voyages | ⚽ Football | 🎵 Musique  
+- ⚽ Football | 🍳 Cuisine | ✈️ Voyages  | 🎵 Musique  
 
 ---
 
