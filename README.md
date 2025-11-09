@@ -94,7 +94,8 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ### Intelligence Artificielle / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![IA générative](https://img.shields.io/badge/IA%20G%C3%A9n%C3%A9rative-FF6F61?style=for-the-badge)
-![Mistral-7B-Instruct](https://img.shields.io/badge/Mistral-7B-Instruct-6C63FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
