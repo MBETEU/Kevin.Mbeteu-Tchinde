@@ -1,7 +1,7 @@
-# 👋 Bonjour, je suis [Ton Nom]
+# 👋 Bonjour, je suis **Kevin MBETEU TCHINDE**
 
 **Étudiant en Master 2 – Chef de projet en conception et développement de solutions informatiques**  
-🎯 Actuellement à la recherche d’un **stage de fin d’études**  
+🎯 Actuellement à la recherche d’une **Alternance** ou **stage de fin d’études**  
 
 ![Header Image](https://via.placeholder.com/1200x300?text=Portfolio+de+Développement)  
 
