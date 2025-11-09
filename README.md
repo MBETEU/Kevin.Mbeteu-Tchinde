@@ -142,7 +142,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond  
 4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories  
 5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement
-**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B,  
+**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B.  
 
 **🔗 [Voir le projet](#)**  
 
@@ -164,13 +164,12 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 **Fonctionnalités clés :**  
 - Traitement du langage naturel (NLP) pour comprendre les questions  
-- Réponses contextuelles et dynamiques via GPT ou modèle Mistral  
+- Réponses contextuelles et dynamiques via GPT  
 - Intégration frontend-backend pour communication en temps réel  
 - Gestion des sessions utilisateurs et historique de conversation  
-- Tests et optimisation de la précision des réponses  
-- Déploiement sur serveur cloud avec Docker et CI/CD  
+- Tests et optimisation de la précision des réponses   
 
-**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B, Docker  
+**Technologies utilisées :** Python, Chainlit, Open IA.  
 
 **🔗 [Voir le projet](#)**
 
