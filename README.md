@@ -95,6 +95,8 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![IA générative](https://img.shields.io/badge/IA%20G%C3%A9n%C3%A9rative-FF6F61?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 ### Mobile
