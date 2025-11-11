@@ -182,9 +182,9 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ---
 
 ## 📫 Contact
-- 📧 Email : [mbeteutchinde@example.com](mailto:ton.email@example.com)  
-- 🔗 LinkedIn : [kevin-mbeteu-tchinde-327a76331/](#)  
-- 🔗 GitHub : [https://github.com/MBETEU](#)  
+- 📧 Email : [mbeteutchinde@gmail.com](mailto:ton.email@example.com)  
+- 🔗 LinkedIn : [kevin-mbeteu-tchinde-327a76331/]  
+- 🔗 GitHub : [https://github.com/MBETEU]  
 
 ---
 
