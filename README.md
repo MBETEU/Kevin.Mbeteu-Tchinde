@@ -149,7 +149,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ---
 
 ###  Application web de recherche de donneur de sang (2025)
-![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+Sang)  
+![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+S)  
 - Inscription et gestion des utilisateurs  
 - Notifications et alertes mises à jour  
 - Recherche intelligente de banques de sang et donneurs  
@@ -159,7 +159,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 ###  Chatbot Intelligent (2025)
-![Projet Chatbot](https://via.placeholder.com/600x300?text=Chatbot+Intelligent)  
+![Projet Chatbot](https://github.com/MBETEU/Kevin.Mbeteu-Tchinde/blob/main/img/image%20chatbot.jpg)  
 **Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
 
 **Fonctionnalités clés :**  
