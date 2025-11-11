@@ -171,7 +171,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 **Technologies utilisées :** Python, Chainlit, Open IA.  
 
-**🔗 [Voir le projet](#)**
+**🔗 [Voir le projet](https://github.com/MBETEU/Chatbot)**
 
 ---
 
