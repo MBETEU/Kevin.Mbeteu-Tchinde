@@ -174,7 +174,21 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Chatbot)**
 
 ---
+###  Application web de gestion du personnel – Projet Django
+ (2025)
+![Projet Chatbot]()  
+**Résumé :** Développement d’une application web de gestion du personnel avec le framework Django, centrée sur la simplicité d’administration des entités RH (entreprises, départements, utilisateurs). 
 
+**Fonctionnalités clés :**  
+- Authentification sécurisée : système d’inscription, connexion et gestion des rôles (utilisateur standard et superutilisateur)
+- Gestion des entités : création, lecture, mise à jour et suppression (CRUD) des entreprises et départements  
+-  Filtres dynamiques : recherche et filtrage des entités par nom, secteur ou rattachement hiérarchique 
+- Modélisation relationnelle : relations entre entreprises, départements et utilisateurs via des clés étrangères 
+- Base de données : stockage des données avec SQLite, adapté aux environnements de développement  
+ 
+
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Gespers)**
+---
 
 ## 🌟 Centres d’intérêt
 - ⚽ Football | 🍳 Cuisine | ✈️ Voyages  | 🎵 Musique  
