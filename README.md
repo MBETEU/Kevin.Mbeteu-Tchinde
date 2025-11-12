@@ -149,7 +149,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ---
 
 ###  Application web de recherche de donneur de sang (2025)
-![Projet Donneur de Sang](https://via.placeholder.com/600x300?text=Application+Don+de+S)  
+![Projet Donneur de Sang]()  
 - Inscription et gestion des utilisateurs  
 - Notifications et alertes mises à jour  
 - Recherche intelligente de banques de sang et donneurs  
@@ -188,6 +188,23 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Gespers)**
+---
+###  Photothèque – Application web de gestion d’images
+ 
+![Projet Chatbot]()  
+**Résumé :** Développement d’une application web permettant la gestion et l’organisation d’images à travers des albums personnalisés. Ce projet met l’accent sur la structuration des contenus visuels et la fluidité de navigation.
+
+**Fonctionnalités clés :**  
+- Albums dynamiques : création, modification et suppression d’albums pour organiser les images
+- Téléversement et affichage : ajout d’images avec prévisualisation et tri par album  
+- Recherche et filtrage : navigation par mots-clés, date ou nom d’album 
+- Gestion des utilisateurs : authentification, rôles et permissions
+- Architecture RESTful : endpoints clairs pour les opérations CRUD sur les albums et les images
+- Base de données : stockage des données avec SQLite, adapté aux environnements de développement
+**Technologies utilisées :** Node.js avec Express.js, MongoDB (modélisation via Mongoose), Authentification : sessions. 
+ 
+
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Phototh-queNode.js-MongoDb)**
 ---
 
 ## 🌟 Centres d’intérêt
