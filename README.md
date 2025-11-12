@@ -144,7 +144,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement
 **Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B.  
 
-**🔗 [Voir le projet](#)**  
+**🔗 [Voir le projet](https://github.com/MBETEU/smartassistbackend)**  
 
 ---
 
