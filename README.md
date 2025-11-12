@@ -129,7 +129,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets 
 
 
 ###  SMART-ASSIST (2025)
@@ -144,7 +144,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement
 **Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B.  
 
-**🔗 [Voir le projet](https://github.com/MBETEU/smartassistbackend)**  
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/smartassistbackend)**  
 
 ---
 
@@ -155,7 +155,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 - Recherche intelligente de banques de sang et donneurs  
 - Gestion des rôles et demandes de don  
 
-**🔗 [Voir le projet](#)**  
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/donneur-de-sang-app)**  
 
 ---
 ###  Chatbot Intelligent (2025)
@@ -169,9 +169,9 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 - Gestion des sessions utilisateurs et historique de conversation  
 - Tests et optimisation de la précision des réponses   
 
-**Technologies utilisées :** Python, Chainlit, Open IA.  
+**Technologies utilisées :** Python, Chainlit, Gemini IA.  
 
-**🔗 [Voir le projet](https://github.com/MBETEU/Chatbot)**
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Chatbot)**
 
 ---
 
