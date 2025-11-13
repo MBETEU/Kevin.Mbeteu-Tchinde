@@ -24,9 +24,9 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 
-## 💼 Expériences professionnelles
+##  Expériences professionnelles
 
-### 🏆 Stagiaire Product Owner – INSTA
+### Stagiaire Product Owner – INSTA
 *Jan 2025 – Juin 2025*  
 - Conduite d’ateliers utilisateurs et analyse des besoins  
 - Rédaction des user stories et critères d’acceptation en collaboration avec l’équipe technique  
@@ -36,26 +36,26 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 - Réalisation des tests manuels et automatisés avec Selenium  
 - Documentation des processus et solutions techniques  
 
-### 🖥 Développeur Web Fullstack – MVENG ENGINEERING
+###  Développeur Web Fullstack – MVENG ENGINEERING
 *Oct 2023 – Sept 2024*  
 - Conception et développement d’API REST en PHP  
 - Interfaces utilisateur interactives et tests QA  
 - Collaboration produit & design, documentation technique  
 
-### 📊 Stagiaire Analyste Développeur Web – MVENG ENGINEERING
+###  Stagiaire Analyste Développeur Web – MVENG ENGINEERING
 *Juil 2023 – Sept 2023*  
 - Analyse des besoins, prototypes et tests A/B  
 - Suivi des performances et collaboration SEO/SEA  
 - Documentation et retours d’expérience  
 
-### 🌐 Stagiaire Développeur Front-End – MVENG ENGINEERING
+###  Stagiaire Développeur Front-End – MVENG ENGINEERING
 *Juil 2022 – Sept 2022*  
 - Développement UI (HTML, CSS, JS)  
 - Tests fonctionnels et intégration back-end  
 
 ---
 
-## 💻 Compétences techniques
+##  Compétences techniques
 
 ### Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -129,7 +129,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 
-## 🚀 Projets 
+##  Projets 
 
 
 ###  SMART-ASSIST (2025)
@@ -213,7 +213,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ---
 
 ## 📫 Contact
-- 📧 Email : [mbeteutchinde@gmail.com](mailto:ton.email@example.com)  
+- 📧 Email : [mbeteutchinde@gmail.com]()  
 - 🔗 LinkedIn : [kevin-mbeteu-tchinde-327a76331/]  
 - 🔗 GitHub : [https://github.com/MBETEU]  
 
