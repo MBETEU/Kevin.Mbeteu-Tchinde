@@ -134,7 +134,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ##  Projets 
 
 
-###  SMART-ASSIST (2025)
+###  SMART-ASSIST.
 ![Projet SmartAssist](https://via.placeholder.com/600x300?text=SmartAssist)  
 **Résumé :** Application web intelligente pour gérer les notes avec génération automatique de résumés et tags via IA.  
 
@@ -150,7 +150,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 
-###  Application web de recherche de donneur de sang (2025)
+###  Application web de recherche de donneur de sang.
 ![Projet Donneur de Sang]()  
 - Inscription et gestion des utilisateurs.  
 - Notifications et alertes mises à jour.  
@@ -160,7 +160,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/donneur-de-sang-app)**  
 
 ---
-###  Chatbot Intelligent (2025)
+###  Chatbot Intelligent.
 ![Projet Chatbot](https://github.com/MBETEU/Kevin.Mbeteu-Tchinde/blob/main/img/img/image_chatbot.jpg)  
 **Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
 
@@ -176,8 +176,8 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Chatbot)**
 
 ---
-###  Application web de gestion du personnel – Projet Django
- (2025)
+###  Application web de gestion du personnel – Projet Django.
+
 ![]()  
 **Résumé :** Développement d’une application web de gestion du personnel avec le framework Django, centrée sur la simplicité d’administration des entités RH (entreprises, départements, utilisateurs). 
 
