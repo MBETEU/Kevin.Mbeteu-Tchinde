@@ -50,7 +50,9 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ###  Stagiaire Développeur Front-End – MVENG ENGINEERING
 *Juil 2022 – Sept 2022*  
-- Développement UI (HTML, CSS, JS)  
+- Développement UI (HTML, CSS, JS)
+- Création de maquettes : conception d’écrans pour applications web et mobiles avec des composants réutilisables avec Figma.
+- Lien entre les écrans : création de transitions entre les pages pour simuler la navigation avec Figma.
 - Tests fonctionnels et intégration back-end  
 
 ---
@@ -137,11 +139,11 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **Résumé :** Application web intelligente pour gérer les notes avec génération automatique de résumés et tags via IA.  
 
 **Modules clés :**  
-1. **Backend FastAPI + PostgreSQL** : Auth (register/login JWT), base de données fonctionnelle, Docker  
-2. **Gestion des notes et catégories** : CRUD complet avec relations User-Note et Category-Note, filtres, pagination  
-3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond  
-4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories  
-5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement
+1. **Backend FastAPI + PostgreSQL** : Auth (register/login JWT), base de données fonctionnelle.  
+2. **Gestion des notes et catégories** : CRUD complet avec relations User-Note et Category-Note, filtres, pagination.  
+3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond.  
+4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories.  
+5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement.
 **Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B.  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/smartassistbackend)**  
@@ -150,10 +152,10 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ###  Application web de recherche de donneur de sang (2025)
 ![Projet Donneur de Sang]()  
-- Inscription et gestion des utilisateurs  
-- Notifications et alertes mises à jour  
-- Recherche intelligente de banques de sang et donneurs  
-- Gestion des rôles et demandes de don  
+- Inscription et gestion des utilisateurs.  
+- Notifications et alertes mises à jour.  
+- Recherche intelligente de banques de sang et donneurs.  
+- Gestion des rôles et demandes de don.  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/donneur-de-sang-app)**  
 
@@ -163,11 +165,11 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
 
 **Fonctionnalités clés :**  
-- Traitement du langage naturel (NLP) pour comprendre les questions  
-- Réponses contextuelles et dynamiques via GPT  
-- Intégration frontend-backend pour communication en temps réel  
-- Gestion des sessions utilisateurs et historique de conversation  
-- Tests et optimisation de la précision des réponses   
+- Traitement du langage naturel (NLP) pour comprendre les questions.  
+- Réponses contextuelles et dynamiques via GPT.  
+- Intégration frontend-backend pour communication en temps réel.  
+- Gestion des sessions utilisateurs et historique de conversation.  
+- Tests et optimisation de la précision des réponses.   
 
 **Technologies utilisées :** Python, Chainlit, Gemini IA.  
 
@@ -176,35 +178,53 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 ---
 ###  Application web de gestion du personnel – Projet Django
  (2025)
-![Projet Chatbot]()  
+![]()  
 **Résumé :** Développement d’une application web de gestion du personnel avec le framework Django, centrée sur la simplicité d’administration des entités RH (entreprises, départements, utilisateurs). 
 
 **Fonctionnalités clés :**  
-- Authentification sécurisée : système d’inscription, connexion et gestion des rôles (utilisateur standard et superutilisateur)
-- Gestion des entités : création, lecture, mise à jour et suppression (CRUD) des entreprises et départements  
--  Filtres dynamiques : recherche et filtrage des entités par nom, secteur ou rattachement hiérarchique 
-- Modélisation relationnelle : relations entre entreprises, départements et utilisateurs via des clés étrangères 
-- Base de données : stockage des données avec SQLite, adapté aux environnements de développement  
+- **Authentification sécurisée :** système d’inscription, connexion et gestion des rôles (utilisateur standard et superutilisateur).
+- **Gestion des entités :** création, lecture, mise à jour et suppression (CRUD) des entreprises et départements.  
+-  **Filtres dynamiques :** recherche et filtrage des entités par nom, secteur ou rattachement hiérarchique. 
+- **Modélisation relationnelle :** relations entre entreprises, départements et utilisateurs via des clés étrangères. 
+- **Base de données :** stockage des données avec SQLite, adapté aux environnements de développement.  
  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Gespers)**
 ---
 ###  Photothèque – Application web de gestion d’images
  
-![Projet Chatbot]()  
+![]()  
 **Résumé :** Développement d’une application web permettant la gestion et l’organisation d’images à travers des albums personnalisés. Ce projet met l’accent sur la structuration des contenus visuels et la fluidité de navigation.
 
 **Fonctionnalités clés :**  
-- Albums dynamiques : création, modification et suppression d’albums pour organiser les images
-- Téléversement et affichage : ajout d’images avec prévisualisation et tri par album  
-- Recherche et filtrage : navigation par mots-clés, date ou nom d’album 
-- Gestion des utilisateurs : authentification, rôles et permissions
-- Architecture RESTful : endpoints clairs pour les opérations CRUD sur les albums et les images
-- Base de données : stockage des données avec SQLite, adapté aux environnements de développement
+- **Albums dynamiques :** création, modification et suppression d’albums pour organiser les images.
+- **Téléversement et affichage :** ajout d’images avec prévisualisation et tri par album.  
+- **Recherche et filtrage :** navigation par mots-clés, date ou nom d’album. 
+- **Gestion des utilisateurs :** authentification, rôles et permissions.
+- **Architecture RESTful :** endpoints clairs pour les opérations CRUD sur les albums et les images.
+- **Base de données :** stockage des données avec SQLite, adapté aux environnements de développement.
 **Technologies utilisées :** Node.js avec Express.js, MongoDB (modélisation via Mongoose), Authentification : sessions. 
  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/Phototh-queNode.js-MongoDb)**
+
+---
+###  Reconnaissance du sexe d’un chien – Application de classification d’images par Deep Learning.
+ 
+![]()  
+**Résumé :** Développement d’un modèle de classification d’images permettant de prédire le sexe d’un chien à partir d’une photo. Ce projet met en œuvre le Transfer Learning à partir du réseau pré-entraîné VGG16, afin de pallier le faible volume de données disponibles. Il illustre la capacité à adapter des architectures existantes à des problématiques spécifiques.
+
+**Fonctionnalités clés :**  
+- **Reconnaissance visuelle avec VGG16 :** utilisation du modèle pré-entraîné pour identifier les races de chiens à partir d’images.
+- **Prétraitement automatisé :** redimensionnement, normalisation et vectorisation des images pour compatibilité avec les réseaux de neurones. 
+- **Classification binaire :** prédiction du sexe (**male/female**) via une tête personnalisée ajoutée au modèle **VGG16**.
+- **Pipeline de test automatisé :** boucle sur les images du dossier test avec affichage du score de prédiction et comparaison avec la classe réelle.
+- **Gestion des données :** structuration des ensembles **train** et **test** avec séparation par classe (**male,female**).
+- **Visualisation des performances :** affichage des scores de prédiction et des classes prédites pour chaque image.
+**Technologies utilisées :** TensorFlow (VGG16, Keras), traitement d’images avec Pillow et Numpy , entraînement via **ImageDataGenerator** , visualisation avec **matplolib** , environnement Python (**Jupyter Notebook**).
+ 
+
+**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/dog_gender_detection)**
 ---
 
 ## 🌟 Centres d’intérêt
