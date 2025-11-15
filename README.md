@@ -161,7 +161,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 
 ---
 ###  Chatbot Intelligent (2025)
-![Projet Chatbot](https://github.com/MBETEU/Kevin.Mbeteu-Tchinde/blob/main/img/image%20chatbot.jpg)  
+![Projet Chatbot](https://github.com/MBETEU/Kevin.Mbeteu-Tchinde/blob/main/img/img/image_chatbot.jpg)  
 **Résumé :** Développement d’un chatbot intelligent capable de répondre automatiquement aux questions des utilisateurs et d’assister dans diverses tâches, intégrant des fonctionnalités d’IA conversationnelle.  
 
 **Fonctionnalités clés :**  
