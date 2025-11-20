@@ -144,9 +144,10 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 3. **Génération IA** : Résumés et tags automatiques via Mistral-7B-Instruct, appels en tâche de fond.  
 4. **Frontend React + Tailwind** : AuthContext, pages Login/Register, gestion CRUD des notes et catégories.  
 5. **Intégration IA Frontend** : Affichage résumés et tags, option régénération, indicateur de chargement.
-**Technologies utilisées :** Python, FastAPI, React, Tailwind, Mistral-7B.  
+**Technologies utilisées :** Python, FastAPI, React, CSS, Mistral-7B.  
 
-**🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/smartassistbackend)**  
+**🔗 [Voir le projet Backend sur GitHub](https://github.com/MBETEU/smartassistbackend)**
+**🔗 [Voir le projet Frontend sur GitHub](https://github.com/MBETEU/smartassist-frontend)**
 
 ---
 
