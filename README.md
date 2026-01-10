@@ -170,7 +170,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 - Classer les tâches par temporalité.
 - Filtrer et rechercher les tâches.
 - Supprimer des tâches.
-- Persister les données via localStorage.  
+- Persister les données via localStorage.
 **Technologies utilisées :** Vue.js 3, Vue Router, PWA, LocalStorage et CSS.  
 
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/gestionnaire-tache)**
