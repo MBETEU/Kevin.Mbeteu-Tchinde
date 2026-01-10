@@ -162,7 +162,7 @@ Passionné par le développement web et la gestion de projets IT, je combine **c
 **🔗 [Voir le projet sur GitHub](https://github.com/MBETEU/donneur-de-sang-app)**  
 ---
 ###  Gestionnaire de Tâches — Vue.js 3.
-![Projet Chatbot]()  
+ 
 **Résumé :** Ce projet consiste à développer une application web de gestion de tâches en utilisant Vue.js version 3.
 
 **Fonctionnalités clés :**  
